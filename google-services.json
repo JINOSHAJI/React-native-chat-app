@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "828411416589",
+    "firebase_url": "https://react-chat-app-1c1d2.firebaseio.com",
+    "project_id": "react-chat-app-1c1d2",
+    "storage_bucket": "react-chat-app-1c1d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828411416589:android:db9b09984d3815cd",
+        "android_client_info": {
+          "package_name": "com.jinoshaji.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828411416589-vdp745eq4refsvrp1mihp8j4t0nn95a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK95XtSBevbPJ6FgGyw84IkLTxBMKYdcE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
